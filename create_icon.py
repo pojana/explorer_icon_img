@@ -36,7 +36,7 @@ import pprint
 BASIC_IMG = '.\\base\\basic.png'
 FOLDER_ICON_IMG = '.\\base\\Folder.png'
 
-dir = 'H:\\いろいろ\\sankaku_favorite\\しずまよしのり\\'
+dir = ''
 
 
 class ico():
